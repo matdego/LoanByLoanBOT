@@ -1,2 +1,10 @@
 ho modificato pippo - 2023-05-17 -09:42
+<<<<<<< HEAD
 ciao ciao
+=======
+
+Ciao, Bucket scaricato - 17/05 14:36
+
+Invito accettato, codice modificato
+>>>>>>> 961efe0af6fc2ea8bfbeb8c80a9aa10c49f1216c
+ssssssss
